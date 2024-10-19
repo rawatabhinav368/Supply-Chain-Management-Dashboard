@@ -43,22 +43,22 @@ Costs.
 1. Dataset Preparation
 Ensure the dataset contains all the columns mentioned above.
 
-# 2. Create Visualizations
+# 2. Created Visualizations
 Product Performance Dashboard
-Product Sales: Create a bar chart showing the number of products sold for each Product Type.
-Price Distribution: Use a histogram to show the distribution of prices for different Product Types.
-Stock Levels: Create a heat map to visualize stock levels across different SKUs and Product Types.
+Product Sales: Created a bar chart showing the number of products sold for each Product Type.
+Price Distribution: Used a histogram to show the distribution of prices for different Product Types.
+Stock Levels: Created a heat map to visualize stock levels across different SKUs and Product Types.
 
 Supply Chain Efficiency Dashboard
-Lead Times vs. Order Quantities: Use a scatter plot to analyze the relationship between lead times and order quantities across different Supplier names.
-Shipping Costs by Carrier: Create a bar chart showing shipping costs per shipping carrier, filtered by Location.
-Manufacturing Efficiency: Create a dual-axis chart comparing manufacturing lead time and production volumes to analyze efficiency over time.
-Defect Rates: Create a pie chart or bar chart to visualize defect rates by Supplier name or Location.
-Customer Demographics
-Demographic Breakdown: Create a demographic distribution chart (such as a pie chart or stacked bar chart) to show the breakdown of customers by age group, gender, or other demographics.
-Revenue by Demographics: Use a treemap to show revenue generated segmented by customer demographics.
+Lead Times vs. Order Quantities: Used a scatter plot to analyze the relationship between lead times and order quantities across different Supplier names.
+Shipping Costs by Carrier: Created a bar chart showing shipping costs per shipping carrier, filtered by Location.
 
-# 3. Analysis Questions
+Defect Rates: Created a pie chart or bar chart to visualize defect rates by Supplier name or Location.
+Customer Demographics
+Demographic Breakdown: Created a demographic distribution chart (such as a pie chart or stacked bar chart) to show the breakdown of customers by age group, gender, or other demographics.
+Revenue by Demographics: Used a treemap to show revenue generated segmented by customer demographics.
+
+# 3. Analyzed Questions
 Which Product Type generates the highest revenue?
 Are there significant correlations between lead times and order quantities?
 How do shipping costs vary by shipping carrier and location?
