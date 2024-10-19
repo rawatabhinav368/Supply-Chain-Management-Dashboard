@@ -2,42 +2,42 @@
 Overview
 The Supply Chain Management Dashboard is a Python-based analytics project that focuses on analyzing product performance and supply chain efficiency for a Fashion and Beauty startup specializing in makeup products. This project leverages data manipulation and visualization libraries to provide insights for data-driven decision-making.
 
-Tools and Technologies
-Python
-Pandas
-Matplotlib
-Seaborn
-Jupyter Notebook 
-Project Difficulty Level - Intermediate
+Tools and Technologies:
+Python,
+Pandas,
+Matplotlib,
+Seaborn,
+Jupyter Notebook, 
+Project Difficulty Level - Intermediate,
 Dataset
 
 About the Dataset
 Supply chain analytics is essential for effective decision-making across various industries, including manufacturing, retail, healthcare, and logistics. This dataset includes information related to the movement of makeup products from suppliers to customers. 
 
 Below are the features included in the dataset:
-Product Type
-SKU
-Price
-Availability
-Number of Products Sold
-Revenue Generated
-Customer Demographics
-Stock Levels
-Lead Times
-Order Quantities
-Shipping Times
-Shipping Carriers
-Shipping Costs
-Supplier Name
-Location
-Production Volumes
-Manufacturing Lead Time
-Manufacturing Costs
-Inspection Results
-Defect Rates
-Transportation Modes
-Routes
-Costs
+Product Type,
+SKU,
+Price,
+Availability,
+Number of Products Sold,
+Revenue Generated,
+Customer Demographics,
+Stock Levels,
+Lead Times,
+Order Quantities,
+Shipping Times,
+Shipping Carriers,
+Shipping Costs,
+Supplier Name,
+Location,
+Production Volumes,
+Manufacturing Lead Time,
+Manufacturing Costs,
+Inspection Results,
+Defect Rates,
+Transportation Modes,
+Routes,
+Costs.
 
 # Task: Analyze Product Performance and Supply Chain Efficiency
 1. Dataset Preparation
