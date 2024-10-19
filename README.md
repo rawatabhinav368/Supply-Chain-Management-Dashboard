@@ -59,10 +59,15 @@ Demographic Breakdown: Created a demographic distribution chart (such as a pie c
 Revenue by Demographics: Used a treemap to show revenue generated segmented by customer demographics.
 
 # 3. Analyzed Questions
+
 Which Product Type generates the highest revenue?
+
 Are there significant correlations between lead times and order quantities?
+
 How do shipping costs vary by shipping carrier and location?
+
 Which suppliers have the most efficient manufacturing processes based on manufacturing lead time and production volumes?
+
 What demographic group contributes the most to sales?
 
 
